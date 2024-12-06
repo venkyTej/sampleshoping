@@ -1,3 +1,3 @@
 ﻿# sampleshoping
- http://127.0.0.1:3000/index.html this is for sample shoping page
+ https://venkytej.github.io/sampleshoping/ this is for sample shoping page
  
