@@ -23,7 +23,9 @@ body  {
         align-items: center;
         background-color: black;
         
-        position: sticky;
+        
+        
+    
         
 
 
@@ -63,6 +65,7 @@ body  {
     nav {
         display: flex;
         margin-right: 5%;
+        position: sticky;
 
 
 
