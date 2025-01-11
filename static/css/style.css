@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -6,15 +7,10 @@
 
         
     
-@media screen and(min-width:770px)
- {
-body{
-    background-color: aqua;
-}
-}
+
 
 body  {
-    background-color: rgb(196, 193, 205);
+    background-color: rgb(131, 120, 164);
 
     header#site-header {
         height: 50px;
@@ -309,3 +305,16 @@ main {
      
 
 }
+
+
+@media screen  and  (min-width: 320px) and (max-width:1200px){
+    body{
+     background-color: rgb(121, 174, 221);   
+    }
+}
+
+
+
+
+
+    
